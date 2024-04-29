@@ -171,6 +171,7 @@ $(document).ready(function() {
         if (renderPhotos(FILTER_SELECTED.photos)) {
             $('.filter__item-link').removeClass('active');
             $(this).addClass('active');
+            responsive();
         }
     });
 
