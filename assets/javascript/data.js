@@ -1832,4 +1832,10 @@ const MUSICS = [
         url: './assets/musics/Jennie_solo.mp3',
         img: './assets/img/music-cover/Jennie_solo.jpeg'
     },
+    {
+        name: 'SPOT',
+        author: 'ZICO feat. JENNIE',
+        url: './assets/musics/Zico_Jennie_spot.mp3',
+        img: './assets/img/music-cover/Zico_Jennie_spot.jpg'
+    },
 ]
